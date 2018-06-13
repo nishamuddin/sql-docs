@@ -48,7 +48,7 @@ You can also save your code with a Unicode encoding or a different code page to 
   
 3.  In the **Advanced Save Options** dialog box, select the encoding you want from the **Encoding** list.  
   
-4.  From the **Line Endings**list, select the type of line ending you want.  
+4.  From the **Line Endings** list, select the type of line ending you want.  
   
     > [!NOTE]  
     > If you save your file your file with Unicode encoding, the file should be checked into [!INCLUDE[msCoName](../../includes/msconame_md.md)] Visual SourceSafe as a binary file because Visual SourceSafe does not support merging, comparing, and showing differences between files that are saved as Unicode.  
